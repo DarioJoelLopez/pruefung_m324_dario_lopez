@@ -1,0 +1,20 @@
+{
+  "name": "pruefung_m324_dario_lopez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.10.0",
+    "mocha": "^10.7.3",
+    "prettier": "^3.3.3"
+  }
+}
